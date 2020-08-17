@@ -1,6 +1,6 @@
 ### Hi there, I'm [Aashish Jangam][website] 👋
 
-## I'm a Web Developer, Game Developer and Android Developer!
+## I'm a Web Developer, Game Developer and Android App Developer!
 - 🔭 I’m currently working on Self Development.
 - 🌱 I’m currently learning everything 🤣.
 - 👯 I’m looking to collaborate with other content creators.
