@@ -2,7 +2,7 @@
 
 ## I'm a Web Developer, Game Developer and Android App Developer!
 - 🔭 I’m currently working on Self Development.
-- 🌱 I’m currently learning everything 🤣.
+- 🌱 I’m currently learning 3D Modelling/Sculpting/Animation.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2020 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I put myself in daily code challenge 🤣.
