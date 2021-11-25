@@ -11,7 +11,7 @@
 
 |                                               **My Github Stats**                                               |                                                    **Top Languages**                                                    |
 | :-------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
-| ![My github stats](https://github-readme-stats.vercel.app/api?username=aashish55&show_icons=true&theme=cobalt) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aashish55&layout=compact&theme=cobalt) |
+| ![My github stats](https://github-readme-stats.vercel.app/api?username=aashish55&show_icons=true&theme=vue) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aashish55&layout=compact&theme=vue) |
 
 ---
 
