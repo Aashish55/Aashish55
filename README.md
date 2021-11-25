@@ -9,6 +9,12 @@
 
 ---
 
+|                                               **My Github Stats**                                               |                                                    **Top Languages**                                                    |
+| :-------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
+| ![My github stats](https://github-readme-stats.vercel.app/api?username=aashish55&show_icons=true&theme=cobalt) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aashish55&layout=compact&theme=cobalt) |
+
+---
+
 ### Connect with me:
 
 [<img align="left" alt="aashishjangam.com.np" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
