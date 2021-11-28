@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I put myself in daily code challenge 🤣.
+- ⚡ Fun fact: I put myself in daily code challenge but I lost 🤣.
 
 ---
 
