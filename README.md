@@ -1,4 +1,4 @@
-### Hi there, I'm [Aashish Jangam][website] 👋
+### Hi there, I'm [Aashish Jangam][website] 👋 [Profile views](https://gpvc.arturio.dev/aashish55)
 
 ## I'm a Web Developer, Game Developer and Android App Developer!
 - 🔭 I’m currently working on Web Automation.
