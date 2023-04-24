@@ -51,3 +51,7 @@
 [instagram]: https://www.instagram.com/aashish_jangam/
 [facebook]: https://www.facebook.com/aashish.jangam.9
 
+<p>&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@aashish_jangam&theme=radical&compact=True" />
+</p>
+<br>
