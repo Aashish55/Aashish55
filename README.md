@@ -18,15 +18,6 @@
 
 ---
 
-### Connect with me:
-
-[<img align="left" alt="aashishjangam.com.np" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Aashish Jangam | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Aashish Jangam | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
----
 
 ### Languages and Tools:
 
@@ -58,3 +49,15 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@aashish_jangam&theme=radical&compact=True" />
 </p>
 <br />
+
+---
+
+
+### Connect with me:
+
+[<img align="left" alt="aashishjangam.com.np" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Aashish Jangam | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Aashish Jangam | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+---
