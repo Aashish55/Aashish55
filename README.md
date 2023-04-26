@@ -15,7 +15,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=aashish55&theme=react&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aashish55&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aashish55&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact)<br/>
-![](https://github-profile-trophy.vercel.app/?username=aashish55&theme=apprentice)<br/>
+![](https://github-profile-trophy.vercel.app/?username=aashish55&no-bg=true&column=-1)<br/>
 
 
 ---
