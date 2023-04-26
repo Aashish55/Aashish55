@@ -10,9 +10,10 @@
 ---
 
 
-|                                               **My Github Stats**                                               |                                                    **Top Languages**                                                    |
-| :-------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
-| ![My github stats](https://github-readme-stats.vercel.app/api?username=aashish55&show_icons=true&theme=vue) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aashish55&layout=compact&theme=vue) |
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=paudel54&theme=react&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=paudel54&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=paudel54&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
 ---
