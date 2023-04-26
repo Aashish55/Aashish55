@@ -11,9 +11,11 @@
 
 
 ## GitHub Stats:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aashish55&theme=react)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=aashish55&theme=react&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aashish55&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aashish55&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aashish55&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact)<br/>
+![](https://github-profile-trophy.vercel.app/?username=aashish55&theme=react)<br/>
 
 
 ---
@@ -46,7 +48,7 @@
 
 <br />
 <p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@aashish_jangam&theme=radical&compact=True" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@aashish_jangam&theme=react&compact=True" />
 </p>
 <br />
 
@@ -59,5 +61,3 @@
 [<img align="left" alt="Aashish Jangam | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Aashish Jangam | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
----
