@@ -50,7 +50,7 @@
 
 <br />
 <p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@aashish_jangam&theme=react&compact=True" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@aashish_jangam&theme=react&compact=True&range=all_time" />
 </p>
 <br />
 
