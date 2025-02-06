@@ -1,10 +1,9 @@
 ### Hi there, I'm [Aashish Jangam][website] 👋.      ![Profile views](https://gpvc.arturio.dev/aashish55)
 
 ## I'm a Web Developer, Game Developer and Android App Developer!
-- 🔭 I’m currently working on Web Automation.
-- 🌱 I’m currently learning everything 🤣.
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 Goals: Contribute more to Open Source projects.
+- 🔭 I’m currently working on Frontend and Web Automation.
+- 🌱 I’m currently learning NestJS.
+- 🥅 Goals: Contribute more to the Team.
 - ⚡ Fun fact: I put myself in daily code challenge but I lost 🤣.
 
 ---
