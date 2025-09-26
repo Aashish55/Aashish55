@@ -1,4 +1,4 @@
-### Hi there, I'm [Aashish Jangam][website] 👋.      ![Profile views](https://gpvc.arturio.dev/aashish55)
+### Hi there, I'm [Aashish Jangam][website] 👋.
 
 ## I'm a Web Developer, Game Developer and Android App Developer!
 - 🔭 I’m currently working on Frontend and Web Automation.
@@ -61,4 +61,5 @@
 [<img align="left" alt="aashishjangam.com.np" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Aashish Jangam | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Aashish Jangam | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
